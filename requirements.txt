@@ -1,0 +1,3 @@
+# packages in environment at /Users/devenpatel/opt/anaconda3/envs/capstone:
+#
+# Name                    Version                   Build  Channel
