@@ -1,13 +1,13 @@
 # Loan Default Prediction
 
 Problem Statement:
-Using machine learning and deep learning models, can we predict if a given loan applicant is going to default on their loan payment?
+Using machine learning learning models, can we predict if a given loan applicant is going to default on their loan payment?
 
 Value Add:
 Spotting customers with high financial uncertainty early on will help firms proactively manage their credit risk. Lenders will be able to determine what percentage of loans will be not be repaid, stopping that loan from being accepted in the first place.
 
 Data Used:
-LendingClub Accepted Loans 2007 - 2020
+LendingClub Accepted Loans 2007 - 2018
 
 Notebook 1: EDA and Cleaning
 - Initial EDA
