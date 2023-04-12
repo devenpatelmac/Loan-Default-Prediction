@@ -38,5 +38,3 @@ Results:
 - Paid Recall: 92%
 - Paid Precision: 94%
 - Overall Accuracy: 91%
-
-End of File
